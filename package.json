@@ -1,0 +1,16 @@
+{
+  "name": "tinkerhub-lights",
+  "description": "Tinkerhub support for lights and lamps",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "tinkerhub",
+  ],
+  "peerDependencies": {
+    "tinkerhub": "^0.1.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
